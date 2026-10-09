@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-7134b8996e.pkpudai.cn/sitemap.xml
